@@ -1,0 +1,9 @@
+O DisCo é considerado um algoritmo fácil de se treinar.
+
+O artigo em questão fala sobre inputs de massa, além de falar sobre machine
+learning.
+
+Ele relaciona duas variáveis não lineares.
+O DisCo nesse caso foi usado para aplicações de partículas físicas.
+
+Parei na página 2 no tópico DIstance Correlation
