@@ -1,0 +1,5 @@
+Comandos do torch: https://pytorch.org/docs/master/torch.html#torch
+
+Torch no GitHub: https://github.com/pytorch/pytorch/releases/tag/v1.8.1
+
+Pacote torch: https://pypi.org/project/torch/
