@@ -1,0 +1,43 @@
+'abs' no numpy
+
+https://numpy.org/doc/stable/reference/generated/numpy.absolute.html
+
+'reshape' no numpy
+
+https://numpy.org/doc/stable/reference/generated/numpy.reshape.html
+
+'repeat' no numpy
+
+https://numpy.org/doc/stable/reference/generated/numpy.repeat.html
+
+'mean' no numpy
+
+https://numpy.org/doc/stable/reference/generated/numpy.mean.html
+
+'tile' no numpy
+
+https://numpy.org/doc/stable/reference/generated/numpy.tile.html
+
+'view' e 'reshape'
+
+https://pytorch.org/docs/stable/tensor_view.html
+
+Comandos do pacote "torch"
+
+https://pytorch.org/docs/master/torch.html#torch
+
+Diferença entre 'reshape' e 'view' no pacote "torch"
+
+https://stackoverflow.com/questions/49643225/whats-the-difference-between-reshape-and-view-in-pytorch
+
+Semelhança entre 'view' no "torch" e 'reshape' no "numpy"
+
+https://datascience.stackexchange.com/questions/36655/are-view-in-pytorch-and-reshape-in-numpy-similar
+
+'len' no Python
+
+https://www.w3schools.com/python/ref_func_len.asp
+
+'repeat' e 'tile'
+
+https://www.kite.com/python/docs/torch.FloatTensor.repeat
