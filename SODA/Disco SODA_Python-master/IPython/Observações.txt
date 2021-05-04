@@ -1,0 +1,15 @@
+Pi Calculator
+
+Em todos os tipos de distância pela magnitude, o 'AA1', 'X1' e 'DT1'
+são iguais
+
+O 'for' no 'minkowski' é diferente dos demais
+
+O 'X1' é como se fosse o 'X' no artigo para a magnitude
+O 'AA1' é como se fosse o mu no artigo para a magnitude
+
+
+O 'X2' é como se fosse o 'X' no artigo para o angular
+O 'AA1' é como se fosse o mu no artigo para a magnitude
+
+
