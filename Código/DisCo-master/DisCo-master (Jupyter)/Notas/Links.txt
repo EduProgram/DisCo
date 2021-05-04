@@ -1,0 +1,3 @@
+DisCo: https://arxiv.org/abs/2001.05310
+
+DisCo no GitHub: https://github.com/gkasieczka/DisCo

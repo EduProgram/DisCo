@@ -1,0 +1,19 @@
+chessboard_division
+
+O 'chessboard_division' usa o 'cdist', um paccote que usa nomes específicos
+para funcionar, no caso do 'disco', o nome é 'correlation', abaixo é mostrado
+o link das diferentes distâncias para o pacote.
+
+Link: https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.cdist.html
+
+Chessboard_Peak
+
+O 'Chessboard_Peak' usa o 'pdist', um paccote que usa nomes específicos
+para funcionar, no caso do 'disco', o nome é 'correlation', abaixo é mostrado
+o link das diferentes distâncias para o pacote.
+
+Link: https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.pdist.html
+
+cloud_member
+
+o 'cloud_member' usa o 'cdist', então o processo foi análogo ao 'chessboard_division'
