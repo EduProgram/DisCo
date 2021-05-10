@@ -1,0 +1,27 @@
+Etapas que parecem estar corretas
+
+- Importação das bibliotecas
+
+- 'distance_corr' (a função veio do artigo e não foi modificada)
+
+- 'grid_set' (nenhuma mudança foi necessária)
+
+- 'pi_calculator' (parece que o 'disco' está funcionando corretamente, pois
+  observou que o tipo, shape e o resultado visual do 'uspi'coincidem com o 
+  'coseno')
+
+- 'Globaldensity_Calculator' (observou que o tipo, shape e o resultado visual
+  do 'uspi2' para o 'angulartype' igual a 'disco' coincidem com o código 
+  original, sendo o 'coseno')
+
+- 'SelfOrganisedDirectionAwareDataPartitioning'
+
+- Código principal
+
+Etapas que ainda está com erro
+
+- 'alternativa_cdist' (falta mudar a métrica pro disco)
+- 'alternativa_pdist' (falta mudar a métrica pro disco)
+- 'chessboard_division' (o 'b' está gerando resultados por cima um do outro)
+- 'ChessBoard_PeakIdentification'
+- 'cloud_member_recruitment'

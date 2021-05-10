@@ -13,3 +13,9 @@ O 'X2' é como se fosse o 'X' no artigo para o angular
 O 'AA1' é como se fosse o mu no artigo para a magnitude
 
 
+
+Globaldensity_Calculator
+
+
+
+
