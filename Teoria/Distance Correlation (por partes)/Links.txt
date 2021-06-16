@@ -1,0 +1,17 @@
+- Distância Euclidiana:
+
+* Teoria e código
+
+https://www.delftstack.com/pt/howto/numpy/calculate-euclidean-distance/
+
+- Correlation:
+
+* Teoria
+
+https://machinelearningmastery.com/how-to-use-correlation-to-understand-the-relationship-between-variables/
+
+https://medium.com/brdata/correla%C3%A7%C3%A3o-direto-ao-ponto-9ec1d48735fb
+
+* Código
+
+https://realpython.com/numpy-scipy-pandas-correlation-python/

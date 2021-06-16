@@ -1,0 +1,12 @@
+A correlação por distâncias (Distance Correlation) é uma metodologia feita
+em duas partes: distância eucliana e correlação.
+
+A parte eucliana é bem simples de se entender, encontrada em diversas
+bibliografias. Com relação a correlação, existem alguns tipos, sendo elas:
+Pearson e Spearman.
+
+Pearson mede a associação linear entre variáveis contínuas, é a mais utilizada
+para o cálculo de correlação. Spearman é indicado para variáveis aleatórias,
+não precisando ser lineares; neste caso, ao invés dos valores, são calculados
+os postos de cada variável, ou seja, o ordenamento numérico.
+
